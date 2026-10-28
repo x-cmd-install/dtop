@@ -53,9 +53,9 @@
 - repo: nix_unstable
   srcname: dtop
   visiblename: dtop
-  version: 0.9.4
+  version: 0.10.4
   origversion: null
-  status: outdated
+  status: newest
   summary: Terminal dashboard for Docker monitoring across multiple hosts with Dozzle integration
   maintainers:
     - kristoffer.pbs@gmail.com

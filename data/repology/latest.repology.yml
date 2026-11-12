@@ -19,7 +19,7 @@
   visiblename: dtop-bin
   version: 0.11.1
   origversion: 0.11.1-1
-  status: newest
+  status: outdated
   summary: Terminal dashboard for Docker
   maintainers:
     - dominiquini@aur
@@ -28,7 +28,7 @@
 - repo: homebrew
   srcname: dtop
   visiblename: dtop
-  version: 0.11.1
+  version: 0.11.3
   origversion: null
   status: newest
   summary: Terminal dashboard for Docker monitoring across multiple hosts
